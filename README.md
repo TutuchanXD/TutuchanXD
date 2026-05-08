@@ -33,11 +33,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" alt="Linux" />
 </p>
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/TutuchanXD/hxmtdap">
-    <img src="./assets/hxmtdap-card.svg" alt="hxmtdap repository card" />
-  </a>
-</p>
