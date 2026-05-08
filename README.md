@@ -4,8 +4,6 @@
   Scientific computing · simulation workflows · research tooling
 </p>
 
-## Contributions
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TutuchanXD/TutuchanXD/output/github-contribution-grid-snake-dark.svg" />
