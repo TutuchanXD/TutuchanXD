@@ -1,0 +1,28 @@
+<svg width="420" height="150" viewBox="0 0 420 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">hxmtdap repository card</title>
+  <desc id="desc">Insight-HXMT Data Analysis Pipeline</desc>
+  <style>
+    .card { fill: transparent; stroke: #d0d7de; }
+    .title { fill: #0969da; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .body { fill: #57606a; font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .meta { fill: #24292f; font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .dot { fill: #3572A5; }
+    .icon { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .card { stroke: #30363d; }
+      .title { fill: #58a6ff; }
+      .body { fill: #8b949e; }
+      .meta { fill: #c9d1d9; }
+      .icon { fill: #8b949e; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="419" height="149" rx="8" />
+  <path class="icon" d="M30 29.5C30 28.1 31.1 27 32.5 27H48.5C49.9 27 51 28.1 51 29.5V50.5C51 51.9 49.9 53 48.5 53H32.5C31.1 53 30 51.9 30 50.5V29.5ZM34 33V35H47V33H34ZM34 39V41H47V39H34ZM34 45V47H42V45H34Z" />
+  <text class="title" x="64" y="46">hxmtdap</text>
+  <text class="body" x="30" y="82">Insight-HXMT Data Analysis Pipeline</text>
+  <circle class="dot" cx="36" cy="116" r="5" />
+  <text class="meta" x="50" y="120">Python</text>
+  <text class="meta" x="112" y="120">22 stars</text>
+  <text class="meta" x="178" y="120">0 forks</text>
+  <text class="meta" x="238" y="120">Updated 2026-05-03</text>
+</svg>
