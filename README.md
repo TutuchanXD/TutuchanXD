@@ -4,37 +4,32 @@
   Astronomy · Data · Scientific Computing
 </p>
 
-<table align="center" width="620">
-  <tr>
-    <td align="left">
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-      <img src="./assets/heart.gif" width="18" alt="" />
-    </td>
-    <td align="right">
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-      <img src="./assets/hunger.gif" width="18" alt="" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  <img src="./assets/heart.gif" width="18" alt="" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+  <img src="./assets/hunger.gif" width="18" alt="" />
+</p>
 
 <p align="center">
-  PhD student at UCAS · Building tools for astronomy research
+  <sub>PhD student at UCAS · Building tools for astronomy research</sub>
 </p>
 
 <p align="center">
@@ -46,26 +41,37 @@
 </p>
 
 <p align="center">
-  I build Python-based research tools for astronomical data reduction, simulation workflows, and reproducible analysis.
+  <em>I build Python-based research tools for astronomical data reduction, simulation workflows, and reproducible analysis.</em>
 </p>
 
 ## About
 
-- High-energy astrophysics and astronomical data analysis
+- High-energy astrophysics, timing analysis, and astronomical data analysis
 - Scientific Python tooling for research workflows
-- Simulation pipelines and reproducible analysis
+- Simulation pipelines for algorithm verification and reproducible analysis
 - Occasionally an Astro Muggle :)
-
-## Featured Projects
-
-- **[hxmtdap](https://github.com/TutuchanXD/hxmtdap)** - Insight-HXMT data analysis pipeline for astronomical data reduction and analysis.
 
 ## Tech Stack
 
 <p align="center">
-  <strong>Research &amp; Computing</strong><br />
-  Python · C · C++ · Shell · Linux · LaTeX
-  <br /><br />
-  <strong>Tooling &amp; Development</strong><br />
-  Git · JavaScript · TypeScript
+  <strong>Research &amp; Computing</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+<p align="center">
+  <strong>Tooling &amp; Development</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
